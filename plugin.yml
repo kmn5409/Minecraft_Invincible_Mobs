@@ -1,0 +1,8 @@
+name: InvincibleMob
+main: me.keanunichols.invinciblemob.invincibleMob
+version: 1.0
+api-version: 1.13
+commands:
+   potion_rain:
+      description: Invincible Mob
+
